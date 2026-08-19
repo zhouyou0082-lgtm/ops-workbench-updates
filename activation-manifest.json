@@ -1,0 +1,129 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "updatedAt": "2026-08-19T09:56:18.772Z",
+  "offlineGraceDays": 30,
+  "licenses": [
+    {
+      "id": "OPS-001",
+      "codeHash": "467b67eb3bf5c5618ff6519bbf1025fcf34165e84617fbd55232ef13ff6a0cff",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-002",
+      "codeHash": "16625a9823bb045f970d019b459d32de44c5ef6205f8cb783afed2f8c758c2b9",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-003",
+      "codeHash": "b12f08d8fae7cd9d630b8500f08fa2a3ff300cff1263273eed18e77c753d2ff0",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-004",
+      "codeHash": "c768ff391d1089fd8e200b37cb437d08cee8377d464bfa40cb0ce850dc059ee9",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-005",
+      "codeHash": "8474fbc1743bc7c5cc6ef9330d9af427e1a919d5a50d8637367c83e7f67ce623",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-006",
+      "codeHash": "ded909177fe781c5dd4a7ed2bdaf38e16b94dfe942bf0ed42de06e1c052f0b3b",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-007",
+      "codeHash": "39c40d49ad1b4e973ad2806707dd4fe7a39ae4f14aaaeb8632a62066e5bc07c7",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-008",
+      "codeHash": "fb77eede19a23c9a753eefe4a91e7e51f7f1ddf91945532883bb540c41720006",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-009",
+      "codeHash": "a29f4850c0754b1fbad46e10aa965ce7e510047d1686ea27f612ef3e5b2f2bb8",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-010",
+      "codeHash": "5e966b517fc4f9e0d1afadf8041138bf0ca4c11f43d01932ba47df8f4db61699",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-011",
+      "codeHash": "ed138ce13193882d8cb5f7097c9295071cf4085b5ce77129d187e29a9beaca20",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-012",
+      "codeHash": "2f9d02748264e1cd5f3541e7cc3b086d14f0ec28da89c5f7f0402b94cf31c395",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-013",
+      "codeHash": "328f3970604db28b607d9aa7f7ec9c7759de0646c664acb2f1b708a00ea3e4bb",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-014",
+      "codeHash": "34b53627279ad9cc39dc2c3b463d26e1c7c1a3d8b5e0e3f0b2e81dfff5365a6c",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-015",
+      "codeHash": "fdbac4a7639b89bac4ead7dc8ae825120396d6f2a3797d01cd8c16746fa4ab71",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-016",
+      "codeHash": "a4bea6a5883f18e57edaaa699032afd93d7544d07d166a6df083b1cd32a4db27",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-017",
+      "codeHash": "ae1e22393d32c37524e9c40b680672123bca7a2bc00ceb00659bebb40b6ad76b",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-018",
+      "codeHash": "5df6ea5c59ddd727d3af1067579d0e4f9656ae2fa9dc0a95b9918b3742c4517c",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-019",
+      "codeHash": "f69a79640167d1fbea8900bb872c878c7275452cf0b63a9da46e71174ce52cfe",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "id": "OPS-020",
+      "codeHash": "724f77b48eaa497f3c45aaf4de2cecacc95de186cc0d532570b6427bbab4b283",
+      "enabled": true,
+      "expiresAt": null
+    }
+  ],
+  "signature": "JgWEYP8ZdZ72oPPiGiAX9ilCRD0NloSekgfMJBVK/ORBvaFXN2NMF1jCZYjjN2yHbEyxCvwJigL9pXuiWjmuCw=="
+}
