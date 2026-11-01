@@ -1,12 +1,12 @@
 # 单屏助手
 
-当前版本：2.5.5.0。
+当前版本：2.5.6.0。
 
 在软件中打开「设置 → 线上更新 → 检查更新 → 下载并更新」。也可以下载便携包，解压后运行 GameScreen.exe，在引导中选择安装到这台电脑。
 
-- [便携包](releases/2.5.5.0/GameScreen-2.5.5-portable.zip)
-- [独立程序](releases/2.5.5.0/GameScreen.exe)
-- [本次更新说明](releases/2.5.5.0/release-notes.txt)
+- [便携包](releases/2.5.6.0/GameScreen-2.5.6-portable.zip)
+- [独立程序](releases/2.5.6.0/GameScreen.exe)
+- [本次更新说明](releases/2.5.6.0/release-notes.txt)
 
 本版完善慢网下载：持续传输时更新停顿计时，显示速度、已收大小及当前来源；下载完成后继续核对签名、大小、哈希和程序身份。连接无响应、传输停顿和整次下载仍有超时限制，可取消和重试。
 
