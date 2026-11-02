@@ -1,0 +1,19 @@
+RustDesk 1.5.1 — unmodified official Windows x86_64 portable client
+Copyright RustDesk contributors. Licensed under GNU AGPL version 3.
+The complete licence is provided as LICENCE beside the extracted client.
+
+Official binary:
+https://github.com/rustdesk/rustdesk/releases/download/1.5.1/rustdesk-1.5.1-x86_64.exe
+SHA256: 319206042390ebfcba934cf0baa2f612f34de463c78c843b7cb8c22097c4bf7b
+
+Corresponding source, build instructions and dependency manifests:
+https://github.com/rustdesk/rustdesk/tree/1.5.1
+Main commit: 23e5bb471a040d62f0a6ad52591fb30784265b73
+Submodule libs/hbb_common:
+https://github.com/rustdesk/hbb_common/tree/fae47e024dd83cef6aaecde0aa7d11731df11649
+
+An additional source archive is provided alongside GameScreen downloads:
+https://github.com/zhouyou0082-lgtm/ops-workbench-updates/blob/main/gamescreen/third-party/rustdesk/1.5.1/rustdesk-1.5.1-corresponding-source.zip
+It contains the release source, pinned hbb_common submodule source and reconstruction instructions. Source access is offered without an extra charge.
+
+GameScreen distributes the official executable without modifications and launches it as an independent program. RustDesk is a separate third-party application. It keeps its own permissions, passwords, services and sessions. Closing GameScreen does not close RustDesk sessions.
